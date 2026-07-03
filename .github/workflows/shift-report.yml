@@ -1,0 +1,32 @@
+name: shift-report
+
+on:
+  schedule:
+    - cron: "47 3 * * *" # the crew clocks in at 03:47 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  file-report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: write the report
+        run: python scripts/shift_report.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: file it
+        run: |
+          git config user.name "night-clerk"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore(shift): file $(date -u +%F) overnight report"
+          git push
