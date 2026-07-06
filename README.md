@@ -19,11 +19,12 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-07-05 — filed 05:06 UTC by the night clerk**
+**Shift of 2026-07-06 — filed 05:11 UTC by the night clerk**
 
-- Nothing to report. The supervisor wrote that down anyway. The ledger must balance.
+- 🐛 **bugsweep** — 1 pull request moved through the yard. Papers were in order.
+- 🌃 **nightshift** — tagged **v0.8.0** and left it on the doorstep like a foundling.
 
-*03:28 incident log: maestro ran the tap-test suite on a simulator that swears it was awake the whole time.*
+*03:51 incident log: product-pilot updated the map and insists we were never lost. Officially.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
