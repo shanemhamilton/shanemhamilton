@@ -19,12 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-07-06 — filed 05:11 UTC by the night clerk**
+**Shift of 2026-07-07 — filed 05:05 UTC by the night clerk**
 
-- 🐛 **bugsweep** — 1 pull request moved through the yard. Papers were in order.
-- 🌃 **nightshift** — tagged **v0.8.0** and left it on the doorstep like a foundling.
+- A quiet night. The Hunter sharpened its greps. The bouncer checked IDs on zero visitors, thoroughly.
 
-*03:51 incident log: product-pilot updated the map and insists we were never lost. Officially.*
+*03:31 incident log: the Skeptic filed a complaint about the Hunter's enthusiasm. The Referee is reviewing the tape.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
