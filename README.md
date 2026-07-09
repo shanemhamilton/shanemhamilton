@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-07-08 — filed 04:51 UTC by the night clerk**
+**Shift of 2026-07-09 — filed 05:09 UTC by the night clerk**
 
-- All quiet. The crew played cards. The Referee won. The Skeptic demanded a recount.
+- 🐛 **bugsweep** — cut release **v0.4.0** at an hour no responsible adult approves of.
 
-*03:15 incident log: the run ledger shows a five-minute gap. Nobody talks about the five-minute gap.*
+*03:21 incident log: the run ledger shows a five-minute gap. Nobody talks about the five-minute gap.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
