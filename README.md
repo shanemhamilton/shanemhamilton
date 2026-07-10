@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-07-09 — filed 05:09 UTC by the night clerk**
+**Shift of 2026-07-10 — filed 05:05 UTC by the night clerk**
 
-- 🐛 **bugsweep** — cut release **v0.4.0** at an hour no responsible adult approves of.
+- 🐛 **bugsweep** — cut release **v0.5.0** at an hour no responsible adult approves of. 2 pull requests processed. The Referee stamped every page twice.
 
-*03:21 incident log: the run ledger shows a five-minute gap. Nobody talks about the five-minute gap.*
+*03:32 incident log: maestro ran the tap-test suite on a simulator that swears it was awake the whole time.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
