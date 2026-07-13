@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-07-12 — filed 04:55 UTC by the night clerk**
+**Shift of 2026-07-13 — filed 04:57 UTC by the night clerk**
 
 - A quiet night. The Hunter sharpened its greps. The bouncer checked IDs on zero visitors, thoroughly.
 
-*03:29 incident log: maestro ran the tap-test suite on a simulator that swears it was awake the whole time.*
+*03:09 incident log: the Skeptic filed a complaint about the Hunter's enthusiasm. The Referee is reviewing the tape.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
