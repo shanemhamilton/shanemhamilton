@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-07-15 — filed 04:42 UTC by the night clerk**
+**Shift of 2026-07-16 — filed 04:45 UTC by the night clerk**
 
-- A quiet night. The Hunter sharpened its greps. The bouncer checked IDs on zero visitors, thoroughly.
+- All quiet. The crew played cards. The Referee won. The Skeptic demanded a recount.
 
-*03:57 incident log: the Skeptic filed a complaint about the Hunter's enthusiasm. The Referee is reviewing the tape.*
+*03:37 incident log: smokejumper requested permission to refactor the coffee machine. Denied. Again.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
