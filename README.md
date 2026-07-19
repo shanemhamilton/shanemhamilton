@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-07-18 — filed 04:42 UTC by the night clerk**
+**Shift of 2026-07-19 — filed 04:53 UTC by the night clerk**
 
-- No commits. No incidents. The Skeptic finds the silence suspicious and has opened an investigation.
+- Nothing to report. The supervisor wrote that down anyway. The ledger must balance.
 
-*03:28 incident log: the Hunter claims it saw a race condition. The Skeptic says it was just the wind.*
+*03:00 incident log: the Skeptic filed a complaint about the Hunter's enthusiasm. The Referee is reviewing the tape.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
