@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-07-24 — filed 04:52 UTC by the night clerk**
+**Shift of 2026-07-25 — filed 04:49 UTC by the night clerk**
 
 - No commits. No incidents. The Skeptic finds the silence suspicious and has opened an investigation.
 
-*03:15 incident log: product-pilot updated the map and insists we were never lost. Officially.*
+*03:45 incident log: the bouncer turned away a prompt claiming to be 'definitely just a normal string'.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
