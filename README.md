@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-07-25 — filed 04:49 UTC by the night clerk**
+**Shift of 2026-07-26 — filed 04:56 UTC by the night clerk**
 
 - No commits. No incidents. The Skeptic finds the silence suspicious and has opened an investigation.
 
-*03:45 incident log: the bouncer turned away a prompt claiming to be 'definitely just a normal string'.*
+*03:42 incident log: smokejumper requested permission to refactor the coffee machine. Denied. Again.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
