@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-08-02 — filed 04:55 UTC by the night clerk**
+**Shift of 2026-08-03 — filed 04:57 UTC by the night clerk**
 
-- No commits. No incidents. The Skeptic finds the silence suspicious and has opened an investigation.
+- Nothing to report. The supervisor wrote that down anyway. The ledger must balance.
 
-*03:49 incident log: product-pilot updated the map and insists we were never lost. Officially.*
+*03:12 incident log: smokejumper requested permission to refactor the coffee machine. Denied. Again.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
