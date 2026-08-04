@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-08-03 — filed 04:57 UTC by the night clerk**
+**Shift of 2026-08-04 — filed 04:48 UTC by the night clerk**
 
 - Nothing to report. The supervisor wrote that down anyway. The ledger must balance.
 
-*03:12 incident log: smokejumper requested permission to refactor the coffee machine. Denied. Again.*
+*03:44 incident log: maestro ran the tap-test suite on a simulator that swears it was awake the whole time.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
