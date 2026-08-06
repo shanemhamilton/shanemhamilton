@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-08-05 — filed 04:48 UTC by the night clerk**
+**Shift of 2026-08-06 — filed 04:48 UTC by the night clerk**
 
 - Nothing to report. The supervisor wrote that down anyway. The ledger must balance.
 
-*03:55 incident log: someone left a TODO in the codebase. The night crew does not do 'later'.*
+*03:37 incident log: an approval request sat in the queue all night, staring. It's in the digest now.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
