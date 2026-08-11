@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-08-10 — filed 04:18 UTC by the night clerk**
+**Shift of 2026-08-11 — filed 04:12 UTC by the night clerk**
 
-- 🛡️ **llm-prompt-guard** — 1 pull request processed. The Referee stamped every page twice.
+- 🛡️ **llm-prompt-guard** — 3 pull requests processed. The Referee stamped every page twice.
 
-*03:24 incident log: the Skeptic filed a complaint about the Hunter's enthusiasm. The Referee is reviewing the tape.*
+*03:00 incident log: someone left a TODO in the codebase. The night crew does not do 'later'.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
