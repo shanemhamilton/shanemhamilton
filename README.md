@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-08-11 — filed 04:12 UTC by the night clerk**
+**Shift of 2026-08-12 — filed 04:23 UTC by the night clerk**
 
-- 🛡️ **llm-prompt-guard** — 3 pull requests processed. The Referee stamped every page twice.
+- No commits. No incidents. The Skeptic finds the silence suspicious and has opened an investigation.
 
-*03:00 incident log: someone left a TODO in the codebase. The night crew does not do 'later'.*
+*03:31 incident log: the Hunter claims it saw a race condition. The Skeptic says it was just the wind.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
