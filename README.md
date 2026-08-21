@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-08-20 — filed 04:01 UTC by the night clerk**
+**Shift of 2026-08-21 — filed 04:02 UTC by the night clerk**
 
-- All quiet. The crew played cards. The Referee won. The Skeptic demanded a recount.
+- Nothing to report. The supervisor wrote that down anyway. The ledger must balance.
 
-*03:58 incident log: the bouncer turned away a prompt claiming to be 'definitely just a normal string'.*
+*03:50 incident log: maestro ran the tap-test suite on a simulator that swears it was awake the whole time.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
