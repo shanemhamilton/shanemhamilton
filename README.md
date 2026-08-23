@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-08-22 — filed 03:59 UTC by the night clerk**
+**Shift of 2026-08-23 — filed 04:02 UTC by the night clerk**
 
-- A quiet night. The Hunter sharpened its greps. The bouncer checked IDs on zero visitors, thoroughly.
+- All quiet. The crew played cards. The Referee won. The Skeptic demanded a recount.
 
-*03:22 incident log: someone left a TODO in the codebase. The night crew does not do 'later'.*
+*03:06 incident log: the Hunter claims it saw a race condition. The Skeptic says it was just the wind.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
