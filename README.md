@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-08-23 — filed 04:02 UTC by the night clerk**
+**Shift of 2026-08-24 — filed 04:03 UTC by the night clerk**
 
 - All quiet. The crew played cards. The Referee won. The Skeptic demanded a recount.
 
-*03:06 incident log: the Hunter claims it saw a race condition. The Skeptic says it was just the wind.*
+*03:07 incident log: the Skeptic filed a complaint about the Hunter's enthusiasm. The Referee is reviewing the tape.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
