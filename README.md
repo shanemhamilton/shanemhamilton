@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-08-24 — filed 04:03 UTC by the night clerk**
+**Shift of 2026-08-25 — filed 04:02 UTC by the night clerk**
 
-- All quiet. The crew played cards. The Referee won. The Skeptic demanded a recount.
+- No commits. No incidents. The Skeptic finds the silence suspicious and has opened an investigation.
 
-*03:07 incident log: the Skeptic filed a complaint about the Hunter's enthusiasm. The Referee is reviewing the tape.*
+*03:21 incident log: an approval request sat in the queue all night, staring. It's in the digest now.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
