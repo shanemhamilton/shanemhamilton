@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-08-28 — filed 06:19 UTC by the night clerk**
+**Shift of 2026-08-29 — filed 03:49 UTC by the night clerk**
 
 - All quiet. The crew played cards. The Referee won. The Skeptic demanded a recount.
 
-*03:25 incident log: the bouncer turned away a prompt claiming to be 'definitely just a normal string'.*
+*03:34 incident log: product-pilot updated the map and insists we were never lost. Officially.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
