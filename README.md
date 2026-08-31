@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-08-30 — filed 03:49 UTC by the night clerk**
+**Shift of 2026-08-31 — filed 03:50 UTC by the night clerk**
 
-- 🐛 **bugsweep** — cut release **v0.6.0** at an hour no responsible adult approves of.
+- All quiet. The crew played cards. The Referee won. The Skeptic demanded a recount.
 
-*03:48 incident log: an approval request sat in the queue all night, staring. It's in the digest now.*
+*03:21 incident log: the Hunter claims it saw a race condition. The Skeptic says it was just the wind.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
