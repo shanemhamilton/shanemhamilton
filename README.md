@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-09-02 — filed 03:49 UTC by the night clerk**
+**Shift of 2026-09-03 — filed 05:06 UTC by the night clerk**
 
-- 🔧 **baton** — cut release **v1.0.0** at an hour no responsible adult approves of.
+- 🔧 **baton** — cut release **v2.0.1** at an hour no responsible adult approves of.
 
-*03:02 incident log: product-pilot updated the map and insists we were never lost. Officially.*
+*03:21 incident log: the bouncer turned away a prompt claiming to be 'definitely just a normal string'.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
