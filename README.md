@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-09-05 — filed 03:49 UTC by the night clerk**
+**Shift of 2026-09-06 — filed 03:48 UTC by the night clerk**
 
-- Nothing to report. The supervisor wrote that down anyway. The ledger must balance.
+- 🔧 **baton** — cut release **v2.1.0** at an hour no responsible adult approves of.
 
-*03:43 incident log: an approval request sat in the queue all night, staring. It's in the digest now.*
+*03:20 incident log: nightshift renewed its own lock lease. Trust the lease, never the pid.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
