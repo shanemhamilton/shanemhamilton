@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-09-07 — filed 03:50 UTC by the night clerk**
+**Shift of 2026-09-08 — filed 03:49 UTC by the night clerk**
 
-- 🐛 **bugsweep** — shipped **v0.7.0-rc.1**. The champagne was decaf. It was 3 AM.
+- Nothing to report. The supervisor wrote that down anyway. The ledger must balance.
 
-*03:17 incident log: nightshift renewed its own lock lease. Trust the lease, never the pid.*
+*03:26 incident log: the bouncer turned away a prompt claiming to be 'definitely just a normal string'.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
