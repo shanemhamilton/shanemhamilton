@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-09-10 — filed 03:49 UTC by the night clerk**
+**Shift of 2026-09-11 — filed 03:49 UTC by the night clerk**
 
 - No commits. No incidents. The Skeptic finds the silence suspicious and has opened an investigation.
 
-*03:31 incident log: the run ledger shows a five-minute gap. Nobody talks about the five-minute gap.*
+*03:19 incident log: product-pilot updated the map and insists we were never lost. Officially.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
