@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-09-18 — filed 03:50 UTC by the night clerk**
+**Shift of 2026-09-19 — filed 03:49 UTC by the night clerk**
 
-- A quiet night. The Hunter sharpened its greps. The bouncer checked IDs on zero visitors, thoroughly.
+- No commits. No incidents. The Skeptic finds the silence suspicious and has opened an investigation.
 
-*03:33 incident log: the run ledger shows a five-minute gap. Nobody talks about the five-minute gap.*
+*03:52 incident log: the Skeptic filed a complaint about the Hunter's enthusiasm. The Referee is reviewing the tape.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
