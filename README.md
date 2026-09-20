@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-09-19 — filed 03:49 UTC by the night clerk**
+**Shift of 2026-09-20 — filed 03:50 UTC by the night clerk**
 
-- No commits. No incidents. The Skeptic finds the silence suspicious and has opened an investigation.
+- 🛡️ **llm-prompt-guard** — shipped **v2.2.1**. The champagne was decaf. It was 3 AM. 9 pull requests moved through the yard. Papers were in order.
 
-*03:52 incident log: the Skeptic filed a complaint about the Hunter's enthusiasm. The Referee is reviewing the tape.*
+*03:25 incident log: the Hunter claims it saw a race condition. The Skeptic says it was just the wind.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
