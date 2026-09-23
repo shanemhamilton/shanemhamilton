@@ -19,12 +19,12 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-09-22 — filed 03:51 UTC by the night clerk**
+**Shift of 2026-09-23 — filed 03:51 UTC by the night clerk**
 
-- 🔧 **baton** — 1 pull request moved through the yard. Papers were in order.
-- 🛡️ **llm-prompt-guard** — 2 pull requests moved through the yard. Papers were in order.
+- 🔧 **baton** — cut release **v2.2.0** at an hour no responsible adult approves of. 1 pull request processed. The Referee stamped every page twice.
+- 🐛 **bugsweep** — tagged **v0.7.0** and left it on the doorstep like a foundling.
 
-*03:39 incident log: smokejumper requested permission to refactor the coffee machine. Denied. Again.*
+*03:53 incident log: maestro ran the tap-test suite on a simulator that swears it was awake the whole time.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
