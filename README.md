@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-09-24 — filed 03:51 UTC by the night clerk**
+**Shift of 2026-09-25 — filed 03:51 UTC by the night clerk**
 
-- All quiet. The crew played cards. The Referee won. The Skeptic demanded a recount.
+- No commits. No incidents. The Skeptic finds the silence suspicious and has opened an investigation.
 
-*03:04 incident log: smokejumper requested permission to refactor the coffee machine. Denied. Again.*
+*03:17 incident log: smokejumper requested permission to refactor the coffee machine. Denied. Again.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
