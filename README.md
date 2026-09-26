@@ -19,11 +19,12 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-09-25 — filed 03:51 UTC by the night clerk**
+**Shift of 2026-09-26 — filed 03:50 UTC by the night clerk**
 
-- No commits. No incidents. The Skeptic finds the silence suspicious and has opened an investigation.
+- 🐛 **bugsweep** — 2 pull requests moved through the yard. Papers were in order.
+- 🔧 **buzz** — 1 pull request moved through the yard. Papers were in order.
 
-*03:17 incident log: smokejumper requested permission to refactor the coffee machine. Denied. Again.*
+*03:23 incident log: nightshift renewed its own lock lease. Trust the lease, never the pid.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
