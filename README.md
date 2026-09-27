@@ -19,12 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-09-26 — filed 03:50 UTC by the night clerk**
+**Shift of 2026-09-27 — filed 03:53 UTC by the night clerk**
 
-- 🐛 **bugsweep** — 2 pull requests moved through the yard. Papers were in order.
-- 🔧 **buzz** — 1 pull request moved through the yard. Papers were in order.
+- 🐛 **bugsweep** — cut release **v0.7.1** at an hour no responsible adult approves of. 4 pull requests moved through the yard. Papers were in order.
 
-*03:23 incident log: nightshift renewed its own lock lease. Trust the lease, never the pid.*
+*03:54 incident log: the Hunter claims it saw a race condition. The Skeptic says it was just the wind.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
