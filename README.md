@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-09-27 — filed 03:53 UTC by the night clerk**
+**Shift of 2026-09-28 — filed 03:58 UTC by the night clerk**
 
-- 🐛 **bugsweep** — cut release **v0.7.1** at an hour no responsible adult approves of. 4 pull requests moved through the yard. Papers were in order.
+- 🛡️ **llm-prompt-guard** — shipped **v2.2.2**. The champagne was decaf. It was 3 AM. 7 pull requests processed. The Referee stamped every page twice.
 
-*03:54 incident log: the Hunter claims it saw a race condition. The Skeptic says it was just the wind.*
+*03:54 incident log: smokejumper requested permission to refactor the coffee machine. Denied. Again.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
