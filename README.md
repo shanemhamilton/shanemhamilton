@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-09-30 — filed 03:55 UTC by the night clerk**
+**Shift of 2026-10-01 — filed 03:58 UTC by the night clerk**
 
-- Nothing to report. The supervisor wrote that down anyway. The ledger must balance.
+- No commits. No incidents. The Skeptic finds the silence suspicious and has opened an investigation.
 
-*03:06 incident log: the Hunter claims it saw a race condition. The Skeptic says it was just the wind.*
+*03:17 incident log: nightshift renewed its own lock lease. Trust the lease, never the pid.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
