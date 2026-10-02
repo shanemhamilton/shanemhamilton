@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-10-01 — filed 03:58 UTC by the night clerk**
+**Shift of 2026-10-02 — filed 03:54 UTC by the night clerk**
 
-- No commits. No incidents. The Skeptic finds the silence suspicious and has opened an investigation.
+- 🔧 **buzz** — 1 pull request processed. The Referee stamped every page twice.
 
-*03:17 incident log: nightshift renewed its own lock lease. Trust the lease, never the pid.*
+*03:59 incident log: maestro ran the tap-test suite on a simulator that swears it was awake the whole time.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
