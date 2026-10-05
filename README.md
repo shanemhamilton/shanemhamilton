@@ -19,11 +19,11 @@ of them.
 
 #### Last night's shift report
 <!-- SHIFT-REPORT:START -->
-**Shift of 2026-10-04 — filed 05:14 UTC by the night clerk**
+**Shift of 2026-10-05 — filed 04:04 UTC by the night clerk**
 
-- 🔧 **buzz** — 1 pull request processed. The Referee stamped every page twice.
+- 🔧 **buzz** — 2 pull requests processed. The Referee stamped every page twice.
 
-*03:47 incident log: smokejumper requested permission to refactor the coffee machine. Denied. Again.*
+*03:10 incident log: the Skeptic filed a complaint about the Hunter's enthusiasm. The Referee is reviewing the tape.*
 <!-- SHIFT-REPORT:END -->
 
 #### Field notes
