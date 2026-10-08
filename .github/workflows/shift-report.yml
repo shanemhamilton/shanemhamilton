@@ -1,32 +1,67 @@
-name: shift-report
+name: Profile updates
 
 on:
   schedule:
-    - cron: "47 3 * * *" # the crew clocks in at 03:47 UTC
+    - cron: "47 3 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - README.md
+      - scripts/**
+      - .github/workflows/shift-report.yml
+  pull_request:
+    paths:
+      - README.md
+      - scripts/**
+      - .github/workflows/shift-report.yml
 
 permissions:
-  contents: write
+  contents: read
+
+concurrency:
+  group: profile-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
-  file-report:
+  validate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: "3.12"
+      - name: Test report accuracy and failure handling
+        run: python -m unittest discover -s scripts -p 'test_*.py' -v
 
-      - name: write the report
+  update:
+    needs: validate
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: "3.12"
+      - name: Refresh public project data
         run: python scripts/shift_report.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: file it
+      - name: Publish verified profile data
         run: |
-          git config user.name "night-clerk"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "chore(shift): file $(date -u +%F) overnight report"
-          git push
+          if git diff --cached --quiet; then
+            echo "Profile data is unchanged."
+            exit 0
+          fi
+          git commit -m "chore(profile): refresh public project data"
+          git push origin HEAD:main
