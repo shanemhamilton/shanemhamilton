@@ -37,7 +37,7 @@ These repositories show my engineering approach to AI security and governance. E
 [![Profile update status](https://github.com/shanemhamilton/shanemhamilton/actions/workflows/shift-report.yml/badge.svg?branch=main)](https://github.com/shanemhamilton/shanemhamilton/actions/workflows/shift-report.yml)
 
 <!-- SHIFT-REPORT:START -->
-**Portfolio snapshot — checked 2026-10-08 18:04 UTC**
+**Portfolio snapshot — checked 2026-10-08 20:57 UTC**
 
 | Project | Latest default-branch commit (UTC) | Latest stable release (UTC) |
 |---|---|---|
