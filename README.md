@@ -37,11 +37,11 @@ These repositories show my engineering approach to AI security and governance. E
 [![Profile update status](https://github.com/shanemhamilton/shanemhamilton/actions/workflows/shift-report.yml/badge.svg?branch=main)](https://github.com/shanemhamilton/shanemhamilton/actions/workflows/shift-report.yml)
 
 <!-- SHIFT-REPORT:START -->
-**Portfolio snapshot — checked 2026-10-16 03:53 UTC**
+**Portfolio snapshot — checked 2026-10-17 03:51 UTC**
 
 | Project | Latest default-branch commit (UTC) | Latest stable release (UTC) |
 |---|---|---|
-| [llm-prompt-guard](https://github.com/shanemhamilton/llm-prompt-guard) | [0b2cba8](https://github.com/shanemhamilton/llm-prompt-guard/commit/0b2cba8f7d672dfaba9be5fc2187f7f2691539a5) — 2026-10-15 | [v2.2.2](https://github.com/shanemhamilton/llm-prompt-guard/releases/tag/v2.2.2) — 2026-09-28 |
+| [llm-prompt-guard](https://github.com/shanemhamilton/llm-prompt-guard) | [39010ab](https://github.com/shanemhamilton/llm-prompt-guard/commit/39010ab3ee3d72bb108fe63e4df093fe0784cf68) — 2026-10-16 | [v2.2.2](https://github.com/shanemhamilton/llm-prompt-guard/releases/tag/v2.2.2) — 2026-09-28 |
 | [bugsweep](https://github.com/shanemhamilton/bugsweep) | [5410ec6](https://github.com/shanemhamilton/bugsweep/commit/5410ec6da58de483517017c808746781c1048d6c) — 2026-10-11 | [v0.8.0](https://github.com/shanemhamilton/bugsweep/releases/tag/v0.8.0) — 2026-10-11 |
 | [nightshift](https://github.com/shanemhamilton/nightshift) | [892128c](https://github.com/shanemhamilton/nightshift/commit/892128c8b860b91dd51780b8de5bf40468a34450) — 2026-07-05 | [v0.8.0](https://github.com/shanemhamilton/nightshift/releases/tag/v0.8.0) — 2026-07-05 |
 | [baton](https://github.com/shanemhamilton/baton) | [ebf34de](https://github.com/shanemhamilton/baton/commit/ebf34de5361a3b35e9e32d5cafe706e890df6afc) — 2026-09-22 | [v2.2.0](https://github.com/shanemhamilton/baton/releases/tag/v2.2.0) — 2026-09-22 |
