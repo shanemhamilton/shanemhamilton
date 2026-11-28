@@ -37,12 +37,12 @@ These repositories show my engineering approach to AI security and governance. E
 [![Profile update status](https://github.com/shanemhamilton/shanemhamilton/actions/workflows/shift-report.yml/badge.svg?branch=main)](https://github.com/shanemhamilton/shanemhamilton/actions/workflows/shift-report.yml)
 
 <!-- SHIFT-REPORT:START -->
-**Portfolio snapshot — checked 2026-11-27 03:48 UTC**
+**Portfolio snapshot — checked 2026-11-28 03:49 UTC**
 
 | Project | Latest default-branch commit (UTC) | Latest stable release (UTC) |
 |---|---|---|
 | [llm-prompt-guard](https://github.com/shanemhamilton/llm-prompt-guard) | [66cf699](https://github.com/shanemhamilton/llm-prompt-guard/commit/66cf699a51c4d63c236420815edb8cd64f43a7fe) — 2026-11-23 | [v2.3.0](https://github.com/shanemhamilton/llm-prompt-guard/releases/tag/v2.3.0) — 2026-10-21 |
-| [bugsweep](https://github.com/shanemhamilton/bugsweep) | [5410ec6](https://github.com/shanemhamilton/bugsweep/commit/5410ec6da58de483517017c808746781c1048d6c) — 2026-10-11 | [v0.8.0](https://github.com/shanemhamilton/bugsweep/releases/tag/v0.8.0) — 2026-10-11 |
+| [bugsweep](https://github.com/shanemhamilton/bugsweep) | [354baff](https://github.com/shanemhamilton/bugsweep/commit/354baff4806f271708ae344067c14910224a1b85) — 2026-11-27 | [v0.8.0](https://github.com/shanemhamilton/bugsweep/releases/tag/v0.8.0) — 2026-10-11 |
 | [nightshift](https://github.com/shanemhamilton/nightshift) | [892128c](https://github.com/shanemhamilton/nightshift/commit/892128c8b860b91dd51780b8de5bf40468a34450) — 2026-07-05 | [v0.8.0](https://github.com/shanemhamilton/nightshift/releases/tag/v0.8.0) — 2026-07-05 |
 | [baton](https://github.com/shanemhamilton/baton) | [ebf34de](https://github.com/shanemhamilton/baton/commit/ebf34de5361a3b35e9e32d5cafe706e890df6afc) — 2026-09-22 | [v2.2.0](https://github.com/shanemhamilton/baton/releases/tag/v2.2.0) — 2026-09-22 |
 | [unify-agent-docs](https://github.com/shanemhamilton/unify-agent-docs) | [9d5881c](https://github.com/shanemhamilton/unify-agent-docs/commit/9d5881c35e329f0d2c3e2c58e72852049656466c) — 2026-06-14 | [v1.1.0](https://github.com/shanemhamilton/unify-agent-docs/releases/tag/v1.1.0) — 2026-06-14 |
